@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate software developer focused on bui
 - **Backend Technologies**: Spring Boot, Node.js, Express, and RESTful APIs.
 - **DevOps Tools**: Docker, Jenkins, CI/CD pipelines, and cloud deployments for scalable solutions.
 
-## 💞️ Looking to Collaborate On
+## 🤝 Looking to Collaborate On
 
 - **Full-Stack Development Projects**: Especially those that involve modern JavaScript frameworks and robust backend architectures.
 - **Open Source Projects**: Keen on contributing to full-stack open source projects that have a meaningful impact.
